@@ -54,21 +54,25 @@ export const products = [
 		imgURL: shoe4,
 		name: 'Nike Air Jordan-01',
 		price: '$200.20',
+		stars: 3,
 	},
 	{
 		imgURL: shoe5,
 		name: 'Nike Air Jordan-10',
 		price: '$210.20',
+		stars: 4,
 	},
 	{
 		imgURL: shoe6,
 		name: 'Nike Air Jordan-100',
 		price: '$220.20',
+		stars: 5,
 	},
 	{
 		imgURL: shoe7,
 		name: 'Nike Air Jordan-001',
 		price: '$230.20',
+		stars: 2,
 	},
 ];
 
@@ -95,14 +99,14 @@ export const reviews = [
 	{
 		imgURL: customer1,
 		customerName: 'Morich Brown',
-		rating: 4.5,
+		rating: 4,
 		feedback:
 			'The attention to detail and the quality of the product exceeded my expectations. Highly recommended!',
 	},
 	{
 		imgURL: customer2,
 		customerName: 'Lota Mongeskar',
-		rating: 4.5,
+		rating: 5,
 		feedback:
 			"The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
 	},
